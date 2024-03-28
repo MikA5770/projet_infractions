@@ -1,0 +1,9 @@
+- Je m'excuse d'avance, je n'ai pas eu le temps d'héberger le site sur devweb.iutmetz.univ-lorraine.fr
+
+- ER Mikail 3.1
+
+- Identifiants et mot de passe : 
+    - Gestionnaire du site : ZR16 / root
+    - Conducteur 1 : AZ10 / 10Mikail
+    - Conducteur 2 : FZ60 / secure12
+    - Conducteur 3 : EZ50 / PR1812!
